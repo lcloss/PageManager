@@ -1,5 +1,5 @@
 {
-    "name": "backpack/pagemanager",
+    "name": "lcloss/pagemanager",
     "type": "library",
     "description": "Create admin panels for presentation websites on Laravel, using page templates and Backpack\\CRUD.",
     "keywords": [
