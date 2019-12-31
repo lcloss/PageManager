@@ -19,4 +19,5 @@ return [
     'slug'                          => 'Url simplifiée',
     'template'                      => 'Modèle',
     'template_not_found'            => 'Le modèle de page n’a pu être trouvé. Il a dû être supprimé ou renommé depuis la création de cette page. Pour poursuivre, veuillez demander l’intervention de votre webmaster ou développeur.',
+    'image'                         => 'L\'image sélectionnée',
 ];

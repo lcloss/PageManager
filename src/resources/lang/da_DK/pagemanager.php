@@ -19,4 +19,5 @@ return [
     'slug' => 'Slug',
     'template' => 'Skabelon',
     'template_not_found' => 'Skabelonen kunne ikke findes. Den kan være blevet slettet siden denne side blev oprettet. For at forsætte så bed din web administrator, eller udviklingsteam om at løse dette.',
+    'image' => 'Udvalgt billede',
 ];

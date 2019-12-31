@@ -19,4 +19,5 @@ return [
     'slug' => 'Slug',
     'template' => 'Template',
     'template_not_found' => 'De template is niet gevonden. Misschien is deze verwijderd nadat deze pagina is aangemaakt. Neem contact op met de web ontwikkelaar',
+    'image' => 'Uitgelichte afbeelding',
 ];
