@@ -19,4 +19,5 @@ return [
     'slug' => 'Slug',
     'template' => 'Vorlage',
     'template_not_found' => 'Die Vorlage wurde nicht gefunden. Möglicheweise wurde sie nach Erstellen der Seite gelöscht. Bitte frage Deine Entwickler um Hilfe.',
+    'image' => 'Vorgestelltes Bild',
 ];

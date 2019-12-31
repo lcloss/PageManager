@@ -19,4 +19,5 @@ return [
     'slug' => 'Slug',
     'template' => 'Template',
     'template_not_found' => 'Il template non è stato trovato. Potrebbe essere stato eliminato da quando la pagina è stata creata. Per continuare, chiedi al tuo amministratore o al team di sviluppo di risolvere questo problema.',
+    'image' => 'Immagine in primo piano',
 ];

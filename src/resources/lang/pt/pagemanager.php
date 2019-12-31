@@ -19,4 +19,5 @@ return [
     'slug' => 'Slug',
     'template' => 'Modelo',
     'template_not_found' => 'O modelo não foi encontrado. Pode ter sido apagado depois desta página ter sido criada. Para continuar, por favor peça ao seu administrador ou equipa de desenvolvimento para corrigir este problema.',
+    'image' => 'Imagem em destaque',
 ];
